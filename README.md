@@ -1,7 +1,7 @@
-# DJ Khaled Tinder Bot
+# A Tinder bot that's also a pretty hot duck
 
-Tinder bot that pretends to be DJ Khaled. I don't know.
+Would swipe right, tbh.
 
-[Here's the blog post about it.](http://joelotter.com/2015/05/17/dj-khaled-tinder-bot.html)
+Built using the bones of Joel Auterson (@JoelOtter)'s Tinder bots from 2015 (http://www.joelotter.com/2015/05/17/dj-khaled-tinder-bot.html). Updated significantly for maximum duck-age.
 
 Uses [Pynder](https://github.com/charliewolf/pynder) to talk to Tinder.
