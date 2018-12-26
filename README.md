@@ -1,6 +1,6 @@
-# A Tinder bot that's also a pretty hot duck
+# A Tinder bot that's also a pretty hot duck -- WIP
 
-Would swipe right, tbh.
+Still in production. Would swipe right anyway, tbh.
 
 Built using the bones of Joel Auterson (@JoelOtter)'s [Tinder bots from 2015](http://www.joelotter.com/2015/05/17/dj-khaled-tinder-bot.html). Updated significantly for maximum duck-age.
 
